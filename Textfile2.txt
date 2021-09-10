@@ -1,7 +1,0 @@
-1apple
-2ball
-3cat
-4dog
-5elephant
-6farmer
-7goat
